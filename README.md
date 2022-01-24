@@ -1,4 +1,5 @@
-### Hi there 👋🏿
+### Hi there 👋🏿, 
+### I'm Joseph Ojiofor Chikeme,
 
 - 🔭 I’m currently working on my startup Fardelins Delivery
 - 🌱 I’m currently learning Angular ngrx
