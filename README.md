@@ -2,8 +2,7 @@
 ### I'm Joseph Ojiofor Chikeme,
 
 - 🔭 I’m currently working on my startup Fardelins Delivery
-- 💱 I’m currently learning blockchain technology and web3.
-- 👯 I’m looking to collaborate on nice projects.
+- 💻 I’m currently learning Go, blockchain, and web3.
 - ⚡ Fun fact: I love travelling, pets, food and art.
 <!-- - 🌱 I’m currently improving my skills on ngrx. -->
 
